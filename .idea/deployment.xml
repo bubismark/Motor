@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="pi@169.254.187.92:22">
+    <serverData>
+      <paths name="pi@10.0.0.3:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Adafruit-Motor-HAT-Python-Library/Adafruit_MotorHAT" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@169.254.187.92:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Adafruit-Motor-HAT-Python-Library/Adafruit_MotorHAT" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@172.29.117.70:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.43.160:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Adafruit-Motor-HAT-Python-Library/Adafruit_MotorHAT" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.43.160:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Adafruit-Motor-HAT-Python-Library/Adafruit_MotorHAT" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
